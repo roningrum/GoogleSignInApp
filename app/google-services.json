@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1054697740567",
+    "firebase_url": "https://userfirebaseds.firebaseio.com",
+    "project_id": "userfirebaseds",
+    "storage_bucket": "userfirebaseds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054697740567:android:5fef611c5c1d2f86",
+        "android_client_info": {
+          "package_name": "co.id.dolansemarang.firebaseuiauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054697740567-3j70hh7ldnqvuuaflitin8bopnkjumjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.id.dolansemarang.firebaseuiauth",
+            "certificate_hash": "d56b6449c6d5351541c31e378e120972f317d7a4"
+          }
+        },
+        {
+          "client_id": "1054697740567-oghi72tm7qa49ktbmfkggj2re1t3kovn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYoojBLwzny8HFfJLYXEdVaM_SuZ1z2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054697740567-oghi72tm7qa49ktbmfkggj2re1t3kovn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054697740567:android:b4726bf9737fe4df",
+        "android_client_info": {
+          "package_name": "com.dolansemarang.googlesigninapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054697740567-4rl0ksd0a4cntenj841d5r7g3jgslngg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dolansemarang.googlesigninapp",
+            "certificate_hash": "d56b6449c6d5351541c31e378e120972f317d7a4"
+          }
+        },
+        {
+          "client_id": "1054697740567-oghi72tm7qa49ktbmfkggj2re1t3kovn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYoojBLwzny8HFfJLYXEdVaM_SuZ1z2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054697740567-oghi72tm7qa49ktbmfkggj2re1t3kovn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054697740567:android:faa957b62d92dc62",
+        "android_client_info": {
+          "package_name": "id.co.dolansemarang.loginfirebaseds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054697740567-esp6brrtpdg81tiukgbpl70qv6so4ers.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.dolansemarang.loginfirebaseds",
+            "certificate_hash": "d56b6449c6d5351541c31e378e120972f317d7a4"
+          }
+        },
+        {
+          "client_id": "1054697740567-oghi72tm7qa49ktbmfkggj2re1t3kovn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYoojBLwzny8HFfJLYXEdVaM_SuZ1z2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054697740567-oghi72tm7qa49ktbmfkggj2re1t3kovn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

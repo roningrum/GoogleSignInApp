@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Sign In App</string>
+    <string name="welcome">Welcome, this is Google Login</string>
+</resources>
